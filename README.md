@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Josué Durán and I'm Software Developer.<br>You can visit my portfolio here: https://josueduran.netlify.app/
+Hi, my name is Josué Durán and I'm Software Developer.<br>:link: You can visit my portfolio here: https://josueduran.netlify.app/
 
 
 ## 🌐 Socials:
